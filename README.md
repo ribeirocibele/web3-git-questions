@@ -9,6 +9,8 @@ Compare CLI vs. GUI clients for working with Git
 Question 3:
 Review 3 different GUI Git clients
 
-Create question1.html
-Create question2.html
-Create question3.html
+Status:
+
+Created question1.html
+Created question2.html
+Created question3.html
