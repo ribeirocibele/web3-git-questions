@@ -11,6 +11,4 @@ Review 3 different GUI Git clients
 
 Status:
 
-Created question1.html
-Created question2.html
-Created question3.html
+Created question 1, 2 and 3.
