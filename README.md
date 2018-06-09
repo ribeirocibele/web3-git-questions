@@ -12,3 +12,5 @@ Review 3 different GUI Git clients
 Status:
 
 Created question 1, 2 and 3.
+
+Created .gitignore
