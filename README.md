@@ -15,4 +15,4 @@ Created question 1, 2 and 3.
 
 Created .gitignore
 
-Create answer to question 1
+Created first version of question1.html
