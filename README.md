@@ -11,6 +11,7 @@ Compare CLI vs. GUI clients for working with Git
 Question 3:
 Review 3 different GUI Git clients
 
+
 Status:
 
 Created question 1, 2 and 3.
@@ -20,3 +21,5 @@ Created .gitignore
 Created first version of question1.html
 
 Created second version of question1.html
+
+Created third version of question1.html
