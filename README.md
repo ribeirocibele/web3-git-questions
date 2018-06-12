@@ -1,5 +1,7 @@
 # web3-git-questions
 
+Link to Github pages site https://github.com/ribeirocibele/web3-git-questions
+
 Question 1:
 Argue 2 advantages of Git DVCS over Dropbox
 
