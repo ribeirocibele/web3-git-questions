@@ -23,3 +23,7 @@ Created first version of question1.html
 Created second version of question1.html
 
 Created third version of question1.html
+
+Created issue #1 and #2
+
+Fixed issue #1
