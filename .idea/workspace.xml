@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/.gitignore" line="5" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f279125-52b5-4dd1-a378-b4f8206f0049" name="Default" comment="" />
+    <list default="true" id="8f279125-52b5-4dd1-a378-b4f8206f0049" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +105,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
-    <option name="y" value="66" />
+    <option name="x" value="34" />
+    <option name="y" value="63" />
     <option name="width" value="1197" />
     <option name="height" value="734" />
   </component>
@@ -163,10 +165,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21902000" />
+    <option name="totallyTimeSpent" value="22147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="66" width="1197" height="734" extended-state="0" />
+    <frame x="34" y="63" width="1197" height="734" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25714287" />
       <window_info anchor="bottom" id="TODO" order="6" />
