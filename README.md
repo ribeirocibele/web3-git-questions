@@ -36,6 +36,8 @@ Links add to question2.html
 
 Created first version of question3.html
 
+Created second version of question3.html
+
 Links add to question3.html
 
 Created issue #1 and #2
