@@ -105,8 +105,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="278" />
-    <option name="y" value="44" />
+    <option name="x" value="332" />
+    <option name="y" value="25" />
     <option name="width" value="1197" />
     <option name="height" value="734" />
   </component>
@@ -160,15 +160,15 @@
       <option name="presentableId" value="Default" />
       <updated>1528530506756</updated>
       <workItem from="1528530507973" duration="5801000" />
-      <workItem from="1528672719105" duration="19711000" />
+      <workItem from="1528672719105" duration="19960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25512000" />
+    <option name="totallyTimeSpent" value="25761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="35" width="1197" height="734" extended-state="0" />
+    <frame x="278" y="44" width="1197" height="734" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25714287" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -179,7 +179,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1821036" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35949764" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
